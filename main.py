@@ -2,7 +2,7 @@ from sys import argv
 from os.path import isfile
 from os import rename
 
-caractere = "caca"
+caractere = "a"
 ecriture = ""
 
 if len(argv) < 3:
