@@ -6,11 +6,11 @@ caractere = "caca"
 ecriture = ""
 
 if len(argv) < 3:
-    print("\nErreur : Pas assez d'arguments \nExemple : nomdufichier.py pdf 500 \nCette commande va creer un fichier .pdf corrompu de 500 octets\n")
+    print("\nErreur : Pas assez d'arguments \nExemple : nomdufichier pdf 500 \nCette commande va creer un fichier .pdf corrompu de 500 octets\n")
     exit()
 
 if len(argv) > 3:
-    print("\nErreur : Trop assez d'arguments \nExemple : nomdufichier.py pdf 500 \nCette commande va creer un fichier .pdf corrompu de 500 octets\n")
+    print("\nErreur : Trop d'arguments \nExemple : nomdufichier pdf 500 \nCette commande va creer un fichier .pdf corrompu de 500 octets\n")
     exit()
 
 type_de_fichier = argv[1]
