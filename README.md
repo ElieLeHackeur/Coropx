@@ -22,4 +22,5 @@ Cette commande permettra de creer un fichier nommé fichier_corrompu de type pdf
 # <p align="center">Mon Site</p>
 
 <p align="center">https://elielehackeur.github.io/moi_crn/</p>
-![eminem](https://user-images.githubusercontent.com/79536652/151698308-6c1f5dcb-50f9-49dd-88da-4feb9e86866b.jpeg)
+![eminem](https://user-images.githubusercontent.com/79536652/156938399-aad09e03-9d44-4da7-a935-75a8992d8fe5.jpeg)
+
