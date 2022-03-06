@@ -12,14 +12,14 @@ Exemple a écrire dans le terminal : Python3 Coropx.py fichier_corrompu pdf 500
 
 Cette commande permettra de creer un fichier nommé fichier_corrompu de type pdf de 500 octets dans le meme dossier que Coropx.
 
-# <p align="center">Windwos</>
+# <p align="center">Windwos</p>
 Ecrire dans le terminal : py Coropx.py fichier_corrompu extention_voulu taille_voulu
 
 Exemple a écrire dans le terminal : py Coropx.py fichier_corrompu pdf 500
 
 Cette commande permettra de creer un fichier nommé fichier_corrompu de type pdf de 500 octets dans le meme dossier que Coropx.
 
-# Mon Site
+# <p align="center">Mon Site</p>
 
-https://elielehackeur.github.io/moi_crn/
+<p align="center">https://elielehackeur.github.io/moi_crn/</p>
 ![eminem](https://user-images.githubusercontent.com/79536652/151698308-6c1f5dcb-50f9-49dd-88da-4feb9e86866b.jpeg)
