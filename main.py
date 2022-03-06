@@ -10,7 +10,7 @@ if len(argv) < 4:
     exit()
 
 if len(argv) > 4:
-    print("\nErreur : trop assez d'arguments. \nUtilisation : Python3 create.py [nom] [extention] [octets]\n")
+    print("\nErreur : pas assez d'arguments. \nUtilisation : Python3 create.py [nom] [extention] [octets]\n")
     exit()
 
 nom = argv[1]
