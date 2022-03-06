@@ -1,6 +1,6 @@
 # corrompu
 
-Script python avec des arguments pour creer des fichiers corrompu.
+Petit script python avec des arguments pour creer des fichiers corrompu.
 Exemple (à mettre dans le cmd) : Python3 corrompu.py fichier_corrompu pdf 500.
 Cette commande permettra de creer un fichier nommé fichier_corrompu de type pdf de 500 octes.
 
