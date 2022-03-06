@@ -1,4 +1,4 @@
-# Coropx
+<p align="center"># Coropx</p>
 
 Petit script python avec des arguments pour creer des fichiers corrompu.
 
