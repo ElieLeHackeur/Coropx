@@ -1,4 +1,4 @@
-# corrompu
+# Coropx
 
 Petit script python avec des arguments pour creer des fichiers corrompu.
 Exemple (à mettre dans le cmd) : Python3 corrompu.py fichier_corrompu pdf 500.
