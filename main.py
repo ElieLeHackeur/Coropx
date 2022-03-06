@@ -6,11 +6,11 @@ caractere = "a"
 ecriture = ""
 
 if len(argv) < 4:
-    print("\nErreur : Pas assez d'arguments. \nUtilisation : Python3 create.py [nom] [extention] [octets]\n")
+    print("\nErreur : Pas assez d'arguments. \nUtilisation : Python3 Coropx.py [nom] [extention] [octets]\n")
     exit()
 
 if len(argv) > 4:
-    print("\nErreur : pas assez d'arguments. \nUtilisation : Python3 create.py [nom] [extention] [octets]\n")
+    print("\nErreur : pas assez d'arguments. \nUtilisation : Python3 Coropx.py [nom] [extention] [octets]\n")
     exit()
 
 nom = argv[1]
